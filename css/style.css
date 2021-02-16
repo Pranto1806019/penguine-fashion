@@ -1,0 +1,43 @@
+.nav-img {
+	width: 309px;
+	padding: 20px 0;
+}
+.nav-modify{
+    padding: 20px 0;
+}
+.nav-modify a{
+    color : black;
+}
+.banner-img{
+    width: 500px;
+}
+.banner-text{
+ 
+    padding-top: 50px;
+}
+
+.infinity{
+    color : rgb(86, 86, 209);
+    font-weight: 700;
+    line-height: 40px;
+    font-size: 60px;
+    text-transform: uppercase;
+    /* padding-left: 115px; */
+    padding-top : 25px;
+}
+.nike{
+    color : tomato;
+    font-weight: 700;
+    line-height: 40px;
+    font-size: 60px;
+    text-transform: uppercase;
+    padding-top: 50px;
+}
+.banner-text p{
+    padding-right: 300px;
+    padding-top : 20px;
+}
+#header{
+    background-color: #fff9f4;
+    margin: 0 auto;
+}
